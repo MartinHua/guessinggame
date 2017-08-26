@@ -10,7 +10,7 @@ function compare {
   then
     echo 'Your guess is too high!'
   else
-    echo 'Your guess is too low'
+    echo 'Your guess is too low!'
   fi
 }
 
